@@ -1,6 +1,4 @@
 # Opetussovellus
-Tämä esimerkki sovellus näytti melko hyvältä vaihtoehdolta, mutten ole vielä täysin varma aiheesta.
-
 
 Sovelluksen avulla voidaan järjestää verkkokursseja, joissa on tekstimateriaalia ja automaattisesti tarkastettavia tehtäviä. Jokainen käyttäjä on opettaja tai opiskelija.
 
